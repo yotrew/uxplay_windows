@@ -1,4 +1,5 @@
-將iPhone/iPad畫面投影在Windows上  
+# AirPlay on Windows  
+## 將iPhone/iPad畫面投影在Windows上  
 這是使用https://github.com/antimof/UxPlay 來建立uxplay windows版  
 原本在網路上就有https://github.com/leapbtw/uxplay-windows/  
 但有人覺得它有病毒(但它是公開在github且有source code,  
