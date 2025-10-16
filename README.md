@@ -1,9 +1,9 @@
 # AirPlay on Windows  
 ## 將iPhone/iPad畫面投影在Windows上  
 這是使用https://github.com/antimof/UxPlay 來建立uxplay windows版  
-原本在網路上就有https://github.com/leapbtw/uxplay-windows/  
+原本在網路上就有https://github.com/leapbtw/uxplay-windows/ [^1]  
 但有人覺得它有病毒(但它是公開在github且有source code,  
-要使用uxplay時要把它加入防火牆白名單,因為它是網路服務,有沒有毒自己check吧!)  
+要使用uxplay時要把它加入防火牆白名單,因為它是網路服務,這個[^1]有沒有毒自己check吧!)  
 又搬出"授人以魚不如授人以漁"來說教  
 而我的想法是今天若只是為了將iPhone/iPad畫面投影在Windows上而已,有必要裝個MSYS2及gcc等toolchain嗎?  
 為了投影要在電腦先裝個*3GB*左右的檔案,有必要嗎?  
