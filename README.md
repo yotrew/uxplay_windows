@@ -11,7 +11,7 @@
 但如果要我要在5X個班級電腦上裝上投影程式，有必要這樣嗎從頭自己做嗎?  
 所以我就從頭把它編成Windows可執行檔，並把必要檔案收集在同一目錄中，  
 讓它變成綠色軟體…  
-uxplay1.72.zip(https://github.com/yotrew/uxplay_windows/raw/refs/heads/main/uxplay1.72.zip)  
+[uxplay1.72.zip](https://github.com/yotrew/uxplay_windows/raw/refs/heads/main/uxplay1.72.zip)  
 MD5:0A82BCF1B355338817688DEC0E915BE7  
 1.直接下載uxplay1.72.zip,解壓縮  
 2.進uxplay,安裝Bonjour.msi或Bonjour64.msi  
