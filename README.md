@@ -18,3 +18,5 @@ MD5:0A82BCF1B355338817688DEC0E915BE7
 3.將uxplay.exe加入防火牆中的"允許程式通過防火牆"  
 4.執行uxplay.exe  
 5.開啟iPhone/iPad投影->選"UxPlay@你的電腦名稱"  
+
+[^uxplay-windows]:uxplay-windows
