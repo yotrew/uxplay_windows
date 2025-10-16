@@ -4,7 +4,7 @@
 原本在網路上就有https://github.com/leapbtw/uxplay-windows/  
 但有人覺得它有病毒(但它是公開在github且有source code,  
 要使用uxplay時要把它加入防火牆白名單,因為它是網路服務,有沒有毒也可以自己check)  
-又搬出"授人以魚不如授人以漁"來說教
+又搬出"授人以魚不如授人以漁"來說教  
 而我的想法是今天若只是為了將iPhone/iPad畫面投影在Windows上而已有必要裝個MSYS2及gcc等toolchain嗎?  
 為了投影要在電腦先裝個**3GB**左右的檔案,有必要嗎?  
 如果你想要了解人家怎麼寫或是研究它，我覺得動手自己做是一件很好的是  
